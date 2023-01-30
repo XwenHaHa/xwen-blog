@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../public/logo.png" style="width:200px;" />
+<img src="../public/common/logo.png" style="width:200px;" />
 </p>
 
 <h1 align="center">Xwen-Blog</h1>

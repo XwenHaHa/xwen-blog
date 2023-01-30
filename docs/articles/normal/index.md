@@ -3,5 +3,5 @@
 
 
 <p align="center">
-<div style='border:1px solid #ccc'><img src="../../public/normal.png"/></div>
+<div style='border:1px solid #ccc'><img src="../../public/common/normal.png"/></div>
 </p>

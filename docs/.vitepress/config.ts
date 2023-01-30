@@ -38,6 +38,10 @@ const sidebar = [
         text: "01-使用Vitest进行组件单元测试遇到的问题",
         link: "/articles/sparke-ui/Vitest问题.md",
       },
+      {
+        text: "02-使用Vite对组件进行打包时遇到的问题",
+        link: "/articles/sparke-ui/Vite打包问题.md",
+      },
     ],
   },
   {
@@ -51,7 +55,7 @@ export default defineConfig({
   description: "一个记录自己成长的博客",
   themeConfig: {
     siteTitle: "Xwen-Blog",
-    logo: "/logo.png",
+    logo: "/common/logo.png",
 
     // 社交链接
     socialLinks: [{ icon: "github", link: "https://github.com/XwenHaHa" }],
